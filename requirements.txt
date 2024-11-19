@@ -4,3 +4,4 @@ sqlalchemy    # Libreria per connettersi a SQLServer
 pandas         # Per gestire i risultati delle query come DataFrame
 pyodbc       # Driver per connettersi a SQL Server tramite SQLAlchemy
 huggingface-hub    # Per scaricare modelli direttamente da Hugging Face
+openai

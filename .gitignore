@@ -164,4 +164,6 @@ cython_debug/
 t2db
 *.sql
 *.bat
+*.mp4
 config.py
+*.csv
